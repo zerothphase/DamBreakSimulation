@@ -7,7 +7,7 @@ Implementation of 2d finite volume method in MatLab to solve the "shallow water 
 * Dokumentation.pdf: Documentation of the implementation in german.
 * Numerik_1D_Validierungssimulation.m: 1d validation test case.
 * Numerik_2D_Validierungssimulation.m: 2d validation test case.
-* Numerik_1D_Dammbruchsimulation.m: 2d dam break simulation.
+* Numerik_2D_Dammbruchsimulation.m: 2d dam break simulation.
 
 Animated 2d dam break simulation:
 ![](testAnimated.gif)
